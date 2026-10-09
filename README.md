@@ -230,3 +230,5 @@ The tool generates professional-grade reports in the `./outputs` folder:
 ---
 
 *Developed for Advanced Repository Intelligence & Technical Auditing.*
+
+<!-- Training PR #112 - Added for training purposes -->
